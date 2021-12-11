@@ -37,6 +37,7 @@
       artifactPrepareVersion:
         versioningType: "cloud_noTag"
 
+
 #  Integration:
 #    credentials:
 #      - alias: 'mySystemAlias'
